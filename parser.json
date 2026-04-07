@@ -1,8 +1,7 @@
 {
-  "location": null,
-  "max_version": null,
+  "lang": "tiger",
   "url": "https://github.com/ambroisie/tree-sitter-tiger",
   "semver": false,
-  "min_version": null,
-  "lang": "tiger"
+  "parser_version": "4a77b2d7a004587646bddc4e854779044b6db459",
+  "location": null
 }
